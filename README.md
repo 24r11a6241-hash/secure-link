@@ -96,9 +96,11 @@ Python · PyCryptodome · FastAPI · Socket.IO · RSA · AES-GCM
 
 To demonstrate how hybrid cryptography and client-side encryption can protect message confidentiality and integrity while allowing a server to route encrypted communications.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**P. Nikhil**
+- **P. Nikhil**
+- **S. Sai Teja**
+- **K. Lokesh**
 
 ---
 
